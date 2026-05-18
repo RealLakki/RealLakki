@@ -113,15 +113,15 @@ main
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RealLakki&show_icons=true&bg_color=000000&title_color=00FFFF&icon_color=00FFFF&text_color=ffffff&border_color=00FFFF&include_all_commits=true&count_private=true&hide_border=false&cache_seconds=1800)](https://github.com/RealLakki)
+<img src="https://github-readme-stats.vercel.app/api?username=RealLakki&show_icons=true&bg_color=000000&title_color=00FFFF&icon_color=00FFFF&text_color=ffffff&border_color=00FFFF&include_all_commits=true&count_private=true&hide_border=false" height="170" alt="GitHub Stats"/>
 &nbsp;
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RealLakki&layout=compact&bg_color=000000&title_color=00FFFF&text_color=ffffff&border_color=00FFFF&hide_border=false&langs_count=8&cache_seconds=1800)](https://github.com/RealLakki)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RealLakki&layout=compact&bg_color=000000&title_color=00FFFF&text_color=ffffff&border_color=00FFFF&hide_border=false&langs_count=8" height="170" alt="Top Languages"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=RealLakki&theme=dark&background=000000&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF&sideLabels=ffffff&currStreakNum=00FFFF&sideNums=00FFFF&dates=888888&border=00FFFF)](https://github.com/RealLakki)
+<img src="https://streak-stats.demolab.com?user=RealLakki&theme=dark&background=000000&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF&sideLabels=ffffff&currStreakNum=00FFFF&sideNums=00FFFF&dates=888888&border=00FFFF" width="55%" alt="GitHub Streak"/>
 
 </div>
 
@@ -131,7 +131,7 @@ main
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RealLakki&bg_color=000000&color=00FFFF&line=00FFFF&point=ffffff&area=true&area_color=001a1a&hide_border=false&border_color=00FFFF&title_color=00FFFF" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RealLakki&bg_color=000000&color=00FFFF&line=00FFFF&point=ffffff&area=true&area_color=001a1a&hide_border=false&border_color=00FFFF&title_color=00FFFF" width="100%" alt="Contribution Graph"/>
 
 </div>
 
