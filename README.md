@@ -23,15 +23,15 @@
 
 ```javascript
 const Edgardo = {
-  alias       : "RealLakki",
-  edad        : 22,
-  ubicacion   : "Cartagena, Colombia",
-  empresa     : "DT Growth Partners",
-  web         : "dtgrowthpartners.com",
-  rol         : "Desarrollador Web & Constructor de Soluciones Digitales",
-  enfoque     : ["Desarrollo Web", "Automatizacion", "Integracion de APIs", "Soluciones Internas"],
-  filosofia   : "La tecnologia no es un fin, es una herramienta para resolver problemas reales",
-  activo      : true
+  alias     : "RealLakki",
+  edad      : 22,
+  ubicacion : "Cartagena, Colombia",
+  empresa   : "DT Growth Partners",
+  web       : "dtgrowthpartners.com",
+  rol       : "Desarrollador Web & Constructor de Soluciones Digitales",
+  enfoque   : ["Desarrollo Web", "Automatizacion", "Integracion de APIs", "Soluciones Internas"],
+  filosofia : "La tecnologia no es un fin, es una herramienta para resolver problemas reales",
+  activo    : true
 };
 ```
 
@@ -40,18 +40,18 @@ const Edgardo = {
 ## `$ cat sobre_mi.md`
 
 > Soy desarrollador web y constructor de soluciones digitales orientadas a resultados.
-> > Mi enfoque combina **desarrollo**, **automatizacion**, **integraciones** y **pensamiento estrategico**
-> > > para crear herramientas que ayuden a las empresas a comunicar mejor, operar con mas eficiencia y crecer de forma ordenada.
-> > >
-> > > No veo la tecnologia como un fin, sino como una herramienta para resolver problemas reales.
-> > > Creo que una web debe servir para comunicar con claridad y apoyar un objetivo concreto.
-> > > Y que una automatizacion solo tiene sentido si ahorra tiempo, reduce errores y mejora la operacion.
-> > >
-> > > ---
-> > >
-> > > ## `$ ls servicios/`
-> > >
-> > > <div align="center">
+> > > Mi enfoque combina **desarrollo**, **automatizacion**, **integraciones** y **pensamiento estrategico**
+> > > > > > para crear herramientas que ayuden a las empresas a comunicar mejor, operar con mas eficiencia y crecer de forma ordenada.
+> > > > > > > > >
+> > > > > > > > >> > > No veo la tecnologia como un fin, sino como una herramienta para resolver problemas reales.
+> > > > > > > > >> > > > > > Creo que una web debe servir para comunicar con claridad y apoyar un objetivo concreto.
+> > > > > > > > >> > > > > > > > > Y que una automatizacion solo tiene sentido si ahorra tiempo, reduce errores y mejora la operacion.
+> > > > > > > > >> > > > > > > > > > > >
+> > > > > > > > >> > > > > > > > > > > >> > > ---
+> > > > > > > > >> > > > > > > > > > > >> > > > > >
+> > > > > > > > >> > > > > > > > > > > >> > > > > >> > > ## `$ ls servicios/`
+> > > > > > > > >> > > > > > > > > > > >> > > > > >> > > > > >
+> > > > > > > > >> > > > > > > > > > > >> > > > > >> > > > > >> > > <div align="center">
 
 | Area | Descripcion |
 |------|-------------|
@@ -113,15 +113,15 @@ main
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RealLakki&show_icons=true&bg_color=000000&title_color=00FFFF&icon_color=00FFFF&text_color=ffffff&border_color=00FFFF&include_all_commits=true&count_private=true&hide_border=false" height="170"/>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RealLakki&show_icons=true&bg_color=000000&title_color=00FFFF&icon_color=00FFFF&text_color=ffffff&border_color=00FFFF&include_all_commits=true&count_private=true&hide_border=false&cache_seconds=1800)](https://github.com/RealLakki)
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RealLakki&layout=compact&bg_color=000000&title_color=00FFFF&text_color=ffffff&border_color=00FFFF&hide_border=false&langs_count=8" height="170"/>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RealLakki&layout=compact&bg_color=000000&title_color=00FFFF&text_color=ffffff&border_color=00FFFF&hide_border=false&langs_count=8&cache_seconds=1800)](https://github.com/RealLakki)
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=RealLakki&theme=dark&background=000000&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF&sideLabels=ffffff&currStreakNum=00FFFF&sideNums=00FFFF&dates=888888&border=00FFFF" width="55%"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=RealLakki&theme=dark&background=000000&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF&sideLabels=ffffff&currStreakNum=00FFFF&sideNums=00FFFF&dates=888888&border=00FFFF)](https://github.com/RealLakki)
 
 </div>
 
