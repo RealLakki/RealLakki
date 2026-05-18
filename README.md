@@ -113,14 +113,6 @@ main
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RealLakki&show_icons=true&bg_color=000000&title_color=00FFFF&icon_color=00FFFF&text_color=ffffff&border_color=00FFFF&include_all_commits=true&count_private=true&hide_border=false" height="170" alt="GitHub Stats"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RealLakki&layout=compact&bg_color=000000&title_color=00FFFF&text_color=ffffff&border_color=00FFFF&hide_border=false&langs_count=8" height="170" alt="Top Languages"/>
-
-</div>
-
-<div align="center">
-
 <img src="https://streak-stats.demolab.com?user=RealLakki&theme=dark&background=000000&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF&sideLabels=ffffff&currStreakNum=00FFFF&sideNums=00FFFF&dates=888888&border=00FFFF" width="55%" alt="GitHub Streak"/>
 
 </div>
